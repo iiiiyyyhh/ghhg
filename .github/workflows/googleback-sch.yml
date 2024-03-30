@@ -1,7 +1,7 @@
 name: winsix-back
 on:
   schedule:
-    - cron: '42 */1 * * *' # 
+    - cron: '4 */1 * * *' # 
 jobs:
   build:
 
